@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+    <property>
+        <name>ip.file.path</name>
+        <value>hdfs://bigdata0:50000/user/bigdata123/17monipdb.dat</value>
+    </property>
+</configuration>
